@@ -219,3 +219,6 @@ td,
 th {
     padding: 0;
 }
+.image-container {
+    position: relative;
+}
