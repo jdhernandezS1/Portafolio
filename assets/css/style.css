@@ -222,3 +222,5 @@ th {
 .image-container {
     position: relative;
 }
+.img-circle {
+    border-radius: 50%; }
