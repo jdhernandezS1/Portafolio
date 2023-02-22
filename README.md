@@ -56,4 +56,4 @@ Please Visit my LinkedIn profile and connect with me:
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username={jdhernandezS1}&theme=blue-green)
 
-![stats](https://github-readme-stats.vercel.app/api?username={jdhernandezS1}&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username={@jdhernandezS1}&theme=blue-green)
