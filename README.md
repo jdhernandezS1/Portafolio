@@ -20,4 +20,4 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
-![C](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=c&logoColor=009999)
+![C](https://img.shields.io/badge/-181717?style=for-the-badge&logo=c&logoColor=009999)
