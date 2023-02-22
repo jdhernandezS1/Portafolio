@@ -7,10 +7,8 @@ Welcome To my Profile I am David.
 
 Please Visit my LinkedIn profile and connect with me:  
 
-<a href="https://www.linkedin.com/in/david-hern%C3%A1ndez-b3764b171" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
- 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-hern%C3%A1ndez-b3764b171)
+
 [Portafolio](https://jdhernandezs1.github.io/Portafolio)
 
 
@@ -44,7 +42,7 @@ Please Visit my LinkedIn profile and connect with me:
 ### Control Version
 
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/TravelTimN)
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com)
 
 ### Operative Systems
 
