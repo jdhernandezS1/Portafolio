@@ -12,7 +12,7 @@ Please Visit my LinkedIn profile and connect with me:
   </a>  
  
 [Portafolio](https://jdhernandezs1.github.io/Portafolio)
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+
 
 ### Programming Languages
 
@@ -25,3 +25,8 @@ https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 
 ![C](https://img.shields.io/badge/++-181717?style=for-the-badge&logo=c&logoColor=0000)
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
