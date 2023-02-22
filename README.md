@@ -7,7 +7,7 @@ Welcome To my Profile I am David.
 
 Please Visit my LinkedIn profile and connect with me:  
 
-<a href="(https://www.linkedin.com/in/david-hern%C3%A1ndez-b3764b171/)">
+<a href="https://www.linkedin.com/in/david-hern%C3%A1ndez-b3764b171">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>  
   
