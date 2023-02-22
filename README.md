@@ -16,5 +16,5 @@ Please Visit my LinkedIn profile and connect with me:
 
 
 
-[Portafolio](https://jdhernandezs1.github.io/Portafolio)
+[Portafolio](https://jdhernandezs1.github.io/Portafolio){:target="_blank"}
 
