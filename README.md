@@ -47,6 +47,6 @@ Please Visit my LinkedIn profile and connect with me:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username={jdhernandezS1}&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhernandezS1&theme=blue-green)
 
-![stats](https://github-readme-stats.vercel.app/api?username={@jdhernandezS1}&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=jdhernandezS1&theme=blue-green)
